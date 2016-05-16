@@ -29,6 +29,7 @@ proguard/
 # Android Studio
 .idea/
 /captures
+*.iml
 
 # mac file
 .DS_Store
